@@ -1,16 +1,9 @@
-# template
-template for pathology atlas repositories
+# Congo Red
+Congo Red stain for amyloidosis
 
-see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
 
-do not forget to activate github pages for the new repository
-
-```zsh
-vips dzsave HE.svs HE
-```
-
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/congored/HE.html](https://pathologyatlas.github.io/congored/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/congored/HE.html" style="height:400px;width:100%;"></iframe>
