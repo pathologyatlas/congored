@@ -2,7 +2,7 @@
 Congo Red stain for amyloidosis
 
 
-[https://pathologyatlas.github.io/congored/HE.html](https://pathologyatlas.github.io/congored/congored.html)
+[https://pathologyatlas.github.io/congored/congored.html](https://pathologyatlas.github.io/congored/congored.html)
 
 See Microscopy with viewer: 
 
