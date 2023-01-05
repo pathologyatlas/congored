@@ -2,8 +2,9 @@
 Congo Red stain for amyloidosis
 
 
-[https://images.patolojiatlasi.com/congored/HE.html](https://images.patolojiatlasi.com/congored/HE.html)
+
+[https://images.patolojiatlasi.com/congored/congored.html](https://images.patolojiatlasi.com/congored/congored.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://images.patolojiatlasi.com/congored/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/congored/congored.html" style="height:400px;width:100%;"></iframe>
